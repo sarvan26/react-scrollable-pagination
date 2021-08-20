@@ -1,3 +1,3 @@
-# react-qprun8
+# react-scrollable-pagination
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-qprun8)
+https://react-qprun8.stackblitz.io
